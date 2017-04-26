@@ -1,2 +1,4 @@
 # newRepo
 myNewRepository
+
+hi buddy
