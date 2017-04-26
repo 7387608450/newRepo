@@ -1,4 +1,3 @@
-# newRepo
-myNewRepository
-
-hi buddy
+/**
+*THis is comments
+*/
